@@ -236,7 +236,7 @@ blit(ghost, 548, 232, 424, 424);
 roundRect(535, 673, 450, 128, 24, INK);
 roundRect(540, 678, 440, 118, 22, WHITE);
 drawText('BOUNTY WON', 566, 694, 6, INK);
-drawText('+$500', 566, 744, 7, MAGENTA);
+drawText('+$100', 566, 744, 7, MAGENTA);
 drawText('MAKE.FUN', 788, 752, 4, INK);
 
 // Bottom caption.
